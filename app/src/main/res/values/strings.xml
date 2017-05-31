@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2016springFinalStudio</string>
+    <string name="label1">시작정수</string>
+    <string name="label2">끝나는 정수</string>
+    <string name="calcbutton">합 계산</string>
+    <string name="label3">합은</string>
+</resources>
